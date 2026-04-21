@@ -50,7 +50,7 @@ Planned improvements for the next version include:
 - Docker deployment
 - AI-generated explanations for mismatches
 - ERP-style simulation using systems like SAP or Sage
-
+![Dashboard Screenshot](images/dashboard.png)
 ---
 
 ## Author
